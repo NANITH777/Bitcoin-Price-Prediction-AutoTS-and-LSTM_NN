@@ -17,7 +17,7 @@ This repository contains a Python script for analyzing and forecasting Bitcoin p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bitcoin-price-analysis.git
+   git clone https://github.com/NANITH777/Bitcoin-Price-Prediction-AutoTS-and-LSTM_NN.git
    cd bitcoin-price-analysis
    ```
 
